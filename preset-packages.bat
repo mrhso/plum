@@ -1,8 +1,8 @@
 set package_list=%package_list%^
- bopomofo^
+ mrhso/rime-bopomofo@RimeTW^
  cangjie^
  essay^
  luna-pinyin^
- prelude^
+ mrhso/rime-prelude@RimeTW^
  stroke^
  terra-pinyin^
